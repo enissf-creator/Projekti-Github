@@ -5,7 +5,8 @@ int main() {
     int x = 0;
     cout << "S vjet i ki?";
     cin >> x;
-    cout << "Ti i paske " << x << " vjet";
+    cout << "Ti i ki: " << x << " vjet";
 
     return 0;
 }
+
